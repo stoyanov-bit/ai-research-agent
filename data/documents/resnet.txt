@@ -1,0 +1,8 @@
+ResNet is a convolutional neural network architecture based on residual
+connections.
+
+A pretrained ResNet can be used as a fixed feature extractor by removing
+the final classification layer.
+
+ResNet18 produces a 512-dimensional feature representation before its
+final classification layer.

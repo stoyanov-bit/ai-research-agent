@@ -1,0 +1,11 @@
+Anomaly detection identifies observations that differ significantly
+from normal data.
+
+In visual anomaly detection, models are often trained only on normal
+images because defective samples can be rare.
+
+A common approach is to extract feature representations and compare
+new samples against features from normal training images.
+
+Nearest-neighbour methods classify samples based on their distance
+to the closest normal reference sample.

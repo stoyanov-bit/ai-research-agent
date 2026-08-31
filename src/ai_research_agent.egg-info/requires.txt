@@ -1,0 +1,11 @@
+openai
+groq
+python-dotenv
+pydantic
+pandas
+sentence-transformers
+scikit-learn
+pypdf
+
+[dev]
+pytest

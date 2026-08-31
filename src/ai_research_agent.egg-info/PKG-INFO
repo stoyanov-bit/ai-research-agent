@@ -1,0 +1,15 @@
+Metadata-Version: 2.4
+Name: ai-research-agent
+Version: 0.1.0
+Summary: LLM-based research and data analysis agent
+Requires-Python: >=3.11
+Requires-Dist: openai
+Requires-Dist: groq
+Requires-Dist: python-dotenv
+Requires-Dist: pydantic
+Requires-Dist: pandas
+Requires-Dist: sentence-transformers
+Requires-Dist: scikit-learn
+Requires-Dist: pypdf
+Provides-Extra: dev
+Requires-Dist: pytest; extra == "dev"
